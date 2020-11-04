@@ -1,4 +1,4 @@
-# Sustomer support app UI
+# Customer support app 
 
 Flutter application UI design on Customer support concept.The project provides Interface for Customer support page with a diffrent functionalities
 
